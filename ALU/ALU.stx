@@ -1,0 +1,31 @@
+Release 12.2 - xst M.63c (nt64)
+Copyright (c) 1995-2010 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to F:/CECS 440/Lab 2 - ALU/ALU/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.84 secs
+ 
+--> Parameter xsthdpdir set to F:/CECS 440/Lab 2 - ALU/ALU/xst
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.85 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling verilog file "ALU.v" in library work
+ERROR:HDLCompilers:28 - "ALU.v" line 43 'Yin' has not been declared
+Module <ALU> compiled
+Analysis of file <"ALU.prj"> failed.
+--> 
+
+Total memory usage is 202596 kilobytes
+
+Number of errors   :    1 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

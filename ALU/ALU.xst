@@ -1,0 +1,5 @@
+set -tmpdir "F:/CECS 440/Lab 2 - ALU/ALU/xst/projnav.tmp"
+set -xsthdpdir "F:/CECS 440/Lab 2 - ALU/ALU/xst"
+elaborate
+-ifn ALU.prj
+-ifmt mixed
