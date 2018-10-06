@@ -19,3 +19,4 @@
 
 *.c linguist-detectable=false
 *.html linguist-detectable=false
+*.v linguist-language=Verilog
