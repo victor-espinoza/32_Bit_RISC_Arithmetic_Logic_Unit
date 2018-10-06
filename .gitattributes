@@ -20,4 +20,4 @@
 *.c linguist-detectable=false
 *.v linguist-detectable=true
 *.html linguist-detectable=false
-*.coq linguist-detectable=false
+*.Coq linguist-detectable=false
