@@ -1,5 +1,5 @@
-# Lab_2-_ALU
 Project Overview:  
+
 Arithmetic-Logic Unit designed using Verilog.  
   
 The purpose of this lab was to create an Arithmetic Logic Unit (ALU). The ALU basically contains all of the underlying logic behind the instructions that I was required to implement for this project. Since there are no clock inputs for the ALU, this means that all of the operations performed within the ALU are combinational. Combinational logic is defined as performing arithmetic operations on bits of data (bitwise logic) and 0/1 logic (True/false logic).   
